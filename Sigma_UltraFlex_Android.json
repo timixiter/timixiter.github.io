@@ -1,0 +1,11 @@
+
+{
+  "configName": "Sigma UltraFlex - Android",
+  "features": {
+    "aimAssist": "high",
+    "headshotBias": "max",
+    "recoilControl": "aggressive",
+    "fpsBoost": true
+  },
+  "compatibility": ["Android 10+", "Poco F4", "Universal"]
+}
